@@ -11,5 +11,5 @@
 1. Клонируйте репозиторий:
 
 ```bash
-git clone https://github.com/your_username/nsfw-moderation-api.git
-cd nsfw-moderation-api
+git clone https://github.com/Ema639/testing_exercise_aibot
+cd testing_exercise_aibot
