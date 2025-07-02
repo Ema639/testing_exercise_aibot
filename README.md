@@ -1,4 +1,4 @@
-# NSFW Moderation API
+# Testing_exercise_aibot
 
 ## Описание
 
